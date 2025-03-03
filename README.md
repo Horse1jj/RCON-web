@@ -27,7 +27,9 @@ bundle install
 
 require "rcon-web"
 
-``` ruby
+``` 
+
+```ruby
 
 client = RconWeb::Client.new("127.0.0.1", 1234, "yourpassword")
 

@@ -1,4 +1,4 @@
-# RCON-web  
+# rcon-web  
 
 RCON-web is a Ruby gem for managing Pavlov Shack servers via RCON in a Rails application.  
 
@@ -68,3 +68,5 @@ Now you can use
 RCON_CLIENT.send_command("YourCommand") anywhere in your app.
 
 ```
+
+# examples
